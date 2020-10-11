@@ -28,7 +28,7 @@ var server = http.createServer(function(request, response){
       <link rel="stylesheet" href="/x">
       </head>
       <body>
-      <h1>标题</h1>
+      <h1>可以访问我的主页啦</h1>
       </body>
     `);
     response.end();
